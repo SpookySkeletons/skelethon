@@ -1,0 +1,13 @@
+BDEPEND=dev-python/attrs dev-python/flake8 >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install test unpack
+DEPEND=dev-python/attrs
+DESCRIPTION=Udev rules for accessing XR (VR and AR) hardware devices
+EAPI=7
+HOMEPAGE=https://gitlab.freedesktop.org/monado/utilities/xr-hardware/
+INHERIT=git-r3
+KEYWORDS=~amd64 ~x86
+LICENSE=Boost
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
+_md5_=35b65f023f28de1c5da7422238caea67
