@@ -4,6 +4,7 @@
 EAPI=7
 
 EGIT_REPO_URI="https://github.com/SlimeVR/SlimeVR-OpenVR-Driver.git"
+EGIT_COMMIT="ce8072677311a82a9b641eaf509a49b75c58a07a"
 
 inherit cmake git-r3
 
